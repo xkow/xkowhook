@@ -18,9 +18,9 @@ With its user-friendly interface and customizable settings, users can easily spe
 
 ### Video Showcase
 
-Check out this video showcasing the xkowhook in action:
+Check out [this video](https://www.youtube.com/watch?v=Ce_ZSYssZrs) showcasing the xkowhook in action:
 
-[![xkowhook Video Showcase](https://img.youtube.com/vi/watch?v=Ce_ZSYssZrs/0.jpg)](https://www.youtube.com/watch?v=Ce_ZSYssZrs)
+[![xkowhook Video Showcase](https://i3.ytimg.com/vi/Ce_ZSYssZrs/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ce_ZSYssZrs)
 
 ### Installation
 
