@@ -31,21 +31,21 @@ def execute_spam(webhook_url, alias, delay_time, spam_amount, spam_message, dele
     
     if delete_after.lower() == "y":
         requests.delete(webhook_url)
-        print(f'{colorama.Fore.GREEN + colorama.Style.BRIGHT}Webhook deleted')
+        print(f'{colorama.Fore.CYAN + colorama.Style.BRIGHT}Webhook deleted')
     
-    print(f'{colorama.Fore.GREEN + colorama.Style.BRIGHT}Done')
+    print(f'{colorama.Fore.CYAN + colorama.Style.BRIGHT}Done')
 
 def setup_spam():
-    print(f"""{colorama.Fore.GREEN + colorama.Style.BRIGHT}\n
+    print(fr"""{colorama.Fore.GREEN + colorama.Style.BRIGHT}
  |          _                 _                 _    
  |    __  _| | _______      _| |__   ___   ___ | | __
  |    \ \/ / |/ / _ \ \ /\ / / '_ \ / _ \ / _ \| |/ /
  |     >  <|   < (_) \ V  V /| | | | (_) | (_) |   < 
- |    /_/\_\_|\_\___/ \_/\_/ |_| |_|\___/ \___/|_|\_\
+ |    /_/\_\_|\_\___/ \_/\_/ |_| |_|\___/ \___/|_|\_/
  |
  |
- |{colorama.Fore.WHITE + colorama.Style.BRIGHT}
-     """)
+ |   {colorama.Fore.WHITE + colorama.Style.BRIGHT} 
+""")
     webhook_url = input(" |      Enter webhook: ")
     alias = input(" |      Enter webhook name: ")
     spam_message = input(" |      Enter spam message: ")
