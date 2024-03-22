@@ -1,8 +1,8 @@
-## Discord Webhook Spammer
+## xkowhook - Discord Webhook Spammer
 
 ![Discord Webhook Spammer Logo](https://i.imgur.com/80MIoSc.png)
 
-### Description
+### xkowhook description
 
 The **Discord Webhook Spammer** is a lightweight Python-based tool designed to facilitate fast and efficient message sending through Discord webhooks. Whether you're testing webhook functionalities, anti-bot preparing your server, or just trying to spam the shit out of some server, this tool allows you to send a large number of custom messages at a speed of your choosing.
 
