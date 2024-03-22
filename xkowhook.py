@@ -4,7 +4,7 @@ import requests, colorama, time, os
 def _exit():
     time.sleep(5)
     exit()
-    
+
 def check_hook(hook):
     info = requests.get(hook).text
     if "\"message\": \"Unknown Webhook\"" in info:
@@ -18,17 +18,17 @@ def main(webhook, name, delay, amount, message, hookDeleter):
         try:
             data = requests.post(webhook, json={"content": str(message), "name": str(name), "avatar_url": "https://avatars.githubusercontent.com/u/49077814?s=400&u=3fd0ffb76b0057cbad4c889d7b5b86974888bb4e&v=4"})
             if data.status_code == 204:
-                print(f"{colorama.Back.GREEN} {colorama.Fore.WHITE}[+] Sent{colorama.Back.RESET}")
+                print(f"{colorama.Back.GREEN+colorama.Style.BRIGHT} {colorama.Fore.WHITE+colorama.Style.BRIGHT}[+] Sent{colorama.Back.RESET}")
             else:
-                print(f"{colorama.Back.RED} {colorama.Fore.WHITE}[-] Fail{colorama.Back.RESET}")
+                print(f"{colorama.Back.RED+colorama.Style.BRIGHT} {colorama.Fore.WHITE+colorama.Style.BRIGHT}[-] Fail{colorama.Back.RESET}")
         except:
             print()
         time.sleep(float(delay))
         counter += 1
     if hookDeleter.lower() == "y":
         requests.delete(webhook)
-        print(f'{colorama.Fore.GREEN}Webhook deleted')
-    print(f'{colorama.Fore.GREEN}Done')
+        print(f'{colorama.Fore.GREEN+colorama.Style.BRIGHT}Webhook deleted')
+    print(f'{colorama.Fore.GREEN+colorama.Style.BRIGHT}Done')
 
 
 def initialize():
