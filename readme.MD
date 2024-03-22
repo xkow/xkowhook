@@ -4,7 +4,7 @@
 
 ### Description
 
-The **Discord Webhook Spammer** is a lightweight Python-based tool designed to facilitate fast and efficient message sending through Discord webhooks. Whether you're testing webhook functionalities, stress-testing your application, or just having fun with friends, this tool allows you to send a large number of custom messages at a speed of your choosing.
+The **Discord Webhook Spammer** is a lightweight Python-based tool designed to facilitate fast and efficient message sending through Discord webhooks. Whether you're testing webhook functionalities, anti-bot preparing your server, or just trying to spam the shit out of some server, this tool allows you to send a large number of custom messages at a speed of your choosing.
 
 With its user-friendly interface and customizable settings, users can easily specify the speed of message delivery and the total number of messages to be sent. Additionally, for those unfamiliar with Python, a downloadable .exe version is available, making it even more accessible to users of all skill levels.
 
@@ -14,6 +14,7 @@ With its user-friendly interface and customizable settings, users can easily spe
 - **Message Quantity Control**: Specify the total number of messages to send.
 - **User-Friendly Interface**: Easy-to-use Python script.
 - **Executable Version Available**: Downloadable .exe file for simple execution.
+- **Custom Messages**: Make the script send whatever message you want to the webhook.
 
 ### Installation
 
