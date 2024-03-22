@@ -1,5 +1,5 @@
 ## xkowhook - Discord Webhook Spammer
-### DOWNLOAD [HERE](https://xkow.xyz/xkowhook.html)
+### DOWNLOAD [HERE](https://xkow.xyz/xkowhook/)
 ![Discord Webhook Spammer Logo](https://i.imgur.com/80MIoSc.png)
 
 ### xkowhook description
@@ -49,6 +49,7 @@ Check out [this video](https://www.youtube.com/watch?v=Ce_ZSYssZrs) showcasing t
 #### Executable Version
 
 If you're unfamiliar with running Python scripts, you can download the executable version (.exe) directly from the repository. Simply click on the "Download .exe" button, and follow the on-screen instructions to launch the application.
+DOWNLOAD [HERE](https://xkow.xyz/xkowhook/)
 
 ### Usage
 
@@ -69,7 +70,7 @@ For any questions, issues, or feedback, please [open an issue](https://github.co
 
 ---
 
-**[Download .exe](https://xkow.xyz/xkowhook.html)** | **Documentation** | **Report an Issue** | **Star the Project to Support**
+**[Download .exe](https://xkow.xyz/xkowhook)** | **Documentation** | **Report an Issue** | **Star the Project to Support**
 
 
 
