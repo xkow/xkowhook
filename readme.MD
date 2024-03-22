@@ -1,5 +1,5 @@
 ## xkowhook - Discord Webhook Spammer
-
+## DOWNLOAD [HERE](https://xkow.xyz/xkowhook.html)
 ![Discord Webhook Spammer Logo](https://i.imgur.com/80MIoSc.png)
 
 ### xkowhook description
@@ -69,7 +69,7 @@ For any questions, issues, or feedback, please [open an issue](https://github.co
 
 ---
 
-**Download .exe** | **Documentation** | **Report an Issue** | **Star the Project to Support**
+**[Download .exe](https://xkow.xyz/xkowhook.html)** | **Documentation** | **Report an Issue** | **Star the Project to Support**
 
 
 
