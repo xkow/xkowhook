@@ -16,6 +16,12 @@ With its user-friendly interface and customizable settings, users can easily spe
 - **Executable Version Available**: Downloadable .exe file for simple execution.
 - **Custom Messages**: Make the script send whatever message you want to the webhook.
 
+### Video Showcase
+
+Check out this video showcasing the xkowhook in action:
+
+[![xkowhook Video Showcase](https://img.youtube.com/vi/watch?v=Ce_ZSYssZrs/0.jpg)](https://www.youtube.com/watch?v=Ce_ZSYssZrs)
+
 ### Installation
 
 #### Python Script
@@ -59,8 +65,18 @@ This tool is intended for educational and testing purposes only. Misuse of this 
 
 ### Support
 
-For any questions, issues, or feedback, please [open an issue](https://github.com/yourusername/discord-webhook-spammer/issues) on GitHub. You can also contact me on [Discord](https://discord.com/users/351282061731954698), or on any of the other social media platforms linked on my profile.
+For any questions, issues, or feedback, please [open an issue](https://github.com/xKow/xkowhook/issues) on GitHub. You can also contact me on [Discord](https://discord.com/users/351282061731954698), or on any of the other social media platforms linked on my profile.
 
 ---
 
 **Download .exe** | **Documentation** | **Report an Issue** | **Star the Project to Support**
+
+
+
+
+
+
+
+
+
+---
