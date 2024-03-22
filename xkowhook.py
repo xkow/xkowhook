@@ -47,7 +47,7 @@ def setup_spam():
  |{colorama.Fore.WHITE + colorama.Style.BRIGHT}
      """)
     webhook_url = input(" |      Enter webhook: ")
-    alias = input(" |      Enter webhook alias: ")
+    alias = input(" |      Enter webhook name: ")
     spam_message = input(" |      Enter spam message: ")
     delay_time = input(" |      Enter delay time: ")
     spam_amount = input(" |      Amount of messages: ")
